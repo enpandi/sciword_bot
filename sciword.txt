@@ -1,0 +1,994 @@
+(DNA) deoxyribonucleic acid
+(RNA) ribonucleic acid
+(mRNA) messenger ribonucleic acid
+pH
+(ATP) adenosine triphosphate
+amoeba
+Pangaea
+Archaea
+taiga
+hypha
+cilia
+mitochondria
+bacteria
+inertia
+candela
+nebula
+stellar nebula
+planetary nebula
+magma
+plasma
+ulna
+corona
+Paleozoic Era
+Cenozoic Era
+Mesozoic Era
+Precambrian Era
+tundra
+era
+Monera
+aurora
+camera obscura
+data
+medulla oblongata
+delta
+placenta
+lava
+saliva
+supernova
+larva
+swine influenza
+lab
+food web
+plumb
+amniotic sac
+parsec
+oleophobic
+hydrophobic
+aerobic
+anaerobic
+logic
+metamorphic
+hydrophilic
+endothermic
+exothermic
+mechanic
+lysogenic
+hypotonic
+isotonic
+hypertonic
+adiabatic
+static
+arctic
+kinetic
+antibiotic
+plastic
+speed
+seed
+infrared
+foliated
+acid
+deoxyribonucleic acid
+hydrochloric acid
+lactic acid
+conjugate acid
+amino acid
+solid
+energy pyramid
+plasmid
+arachnid
+metalloid
+colloid
+haploid
+lanthanoid
+actinoid
+asteroid
+meteoroid
+lipid
+sister chromatid
+fluid
+liquid
+mold
+barrier island
+sand
+wind
+solar wind
+bond
+ionic bond
+polar bond
+covalent bond
+pond
+organic compound
+inorganic compound
+ground
+sound
+period
+pseudopod
+arthropod
+blizzard
+bird
+cloud
+algae
+probe
+space probe
+test tube
+space
+solstice
+incomplete dominance
+codominance
+resonance
+distance
+air resistance
+science
+physical science
+valence
+prominence
+interference
+force
+electromagnetic force
+electromotive force
+strong force
+weak force
+centrifugal force
+normal force
+centripetal force
+non-point source
+natural resource
+cyanide
+polysaccharide
+acid anhydride
+tide
+spring tide
+high tide
+neap tide
+low tide
+nucleotide
+carbon dioxide
+cathode
+light emitting diode
+anode
+amplitude
+absolute magnitude
+perigee
+apogee
+life
+half-life
+age
+relative age
+camouflage
+cartilage
+voltage
+actual mechanical advantage
+wedge
+change
+climate change
+chemical change
+sponge
+charge
+elementary charge
+storm surge
+niche
+calorie
+lake
+earthquake
+scale
+Saffir-Simpson scale
+Richter scale
+impermeable
+variable
+control variable
+dependent variable
+independent variable
+periodic table
+reversible
+particle
+muscle
+cardiac muscle
+smooth muscle
+cycle
+lysogenic cycle
+rock cycle
+nitrogen cycle
+Calvin cycle
+carbon cycle
+water cycle
+Krebs cycle
+recycle
+allele
+projectile
+reptile
+fertile
+ankle
+micelle
+black hole
+mole
+uncertainty principle
+mantle
+microtubule
+molecule
+joule
+axle
+style
+time
+biome
+ribosome
+chromosome
+desmosome
+volume
+enzyme
+allosteric enzyme
+incline plane
+cell membrane
+gene
+fluorene
+horizontal axis wind turbine
+vaccine
+pyrimidine
+contour line
+fault line
+canine
+large intestine
+bone
+zone
+shore zone
+ozone
+Neptune
+telescope
+microscope
+electron microscope
+gyroscope
+isotope
+genotype
+phenotype
+karyotype
+solar flare
+glassware
+geosphere
+lithosphere
+biosphere
+chromosphere
+atmosphere
+asthenosphere
+hydrosphere
+stratosphere
+photosphere
+telomere
+ampere
+fire
+ore
+core
+shore
+pore
+spore
+zygospore
+herbivore
+measure
+pressure
+barometric pressure
+air pressure
+binomial nomenclature
+temperature
+texture
+mixture
+base
+conjugate base
+disease
+phase
+anaphase
+metaphase
+telophase
+prophase
+interphase
+primase
+DNA polymerase
+impulse
+condense
+synapse
+eclipse
+solar eclipse
+lunar eclipse
+inverse
+phosphate
+adenosine triphosphate
+plate
+metaphase plate
+climate
+vibrate
+carbohydrate
+state
+gamete
+trilobite
+anthracite
+hermaphrodite
+graphite
+satellite
+dendrite
+meteorite
+parasite
+prokaryote
+eukaryote
+pipette
+burette
+cuvette
+torque
+tissue
+concave
+autoclave
+wave
+electromagnetic wave
+surface wave
+mechanical wave
+latitudinal wave
+torsional wave
+secondary wave
+primary wave
+microwave
+radioactive
+dissolve
+nerve
+observe
+curve
+sea breeze
+leaf
+barrier reef
+half
+continental shelf
+white dwarf
+brown dwarf
+drag
+egg
+seafloor spreading
+breeding
+overfishing
+upwelling
+global warming
+shearing
+weathering
+spring
+carbon dating
+rusting
+lung
+smog
+stomach
+enrich
+inch
+epoch
+research
+starch
+hatch
+pitch
+trough
+graph
+seismograph
+ash
+petri dish
+fish
+starfish
+length
+wavelength
+batholith
+monolith
+Earth
+mouth
+daughter nuclei
+fungi
+tsunami
+back
+feedback
+negative feedback
+positive feedback
+metamorphic rock
+extrusive rock
+igneous rock
+sedimentary rock
+sink
+quark
+flask
+volumetric flask
+mollusk
+chemical
+vertical
+pascal
+precocial
+nosocomial
+potential
+mammal
+coal
+bituminous coal
+mineral
+temporal
+parietal
+metal
+alkaline earth metal
+alkali metal
+transition metal
+nonmetal
+orbital
+congenital
+occipital
+horizontal
+crystal
+decibel
+model
+wheel
+funnel
+fossil fuel
+soil
+fossil
+petrified fossil
+preserved fossil
+carbonized fossil
+mold fossil
+trace fossil
+cast fossil
+index fossil
+pistil
+fall
+cell wall
+cell
+prokaryotic cell
+eukaryotic cell
+red blood cell
+white blood cell
+stem cell
+ganglion cell
+photocell
+chlorophyll
+alcohol
+gene pool
+control
+dream
+kilogram
+xylem
+phloem
+stem
+system
+metric system
+digestive system
+skeletal system
+organ system
+circulatory system
+diaphragm
+algorithm
+kingdom
+sonic boom
+atom
+sperm
+angiosperm
+gymnosperm
+cytoplasm
+commensalism
+mutualism
+organism
+microorganism
+tropism
+phototropism
+prism
+antiferromagnetism
+parasitism
+petroleum
+calcium
+equilibrium
+flagellum
+endoplasmic reticulum
+pendulum
+phylum
+aluminum
+fulcrum
+emission spectrum
+datum
+momentum
+angular momentum
+vacuum
+ocean
+organ
+vestigial organ
+amphibian
+cnidarian
+antigen
+chalcogen
+halogen
+estrogen
+pnictogen
+oxygen
+pollen
+stamen
+experimental design
+protein
+ptyalin
+penicillin
+pepsin
+chromatin
+Kelvin
+hydrocarbon
+chlorofluorocarbon
+silicon
+tendon
+eon
+ion
+perihelion
+aphelion
+anion
+prion
+precision
+vision
+tension
+hypotension
+hypertension
+erosion
+corrosion
+compression
+fission
+nuclear fission
+binary fission
+transmission
+fusion
+nuclear fusion
+diffusion
+facilitated diffusion
+conclusion
+cation
+magnification
+replication
+fabrication
+predation
+oxidation
+Pillars of Creation
+conjugation
+radiation
+standard deviation
+correlation
+constellation
+percolation
+isolation
+translation
+coagulation
+accumulation
+insulation
+sublimation
+gene recombination
+pollination
+protonation
+hibernation
+acceleration
+deceleration
+regeneration
+migration
+respiration
+cellular respiration
+transpiration
+evaporation
+titration
+condensation
+precipitation
+fermentation
+rotation
+retrograde rotation
+adaptation
+observation
+preservation
+conservation
+neutralization
+polarization
+pasteurization
+capillary action
+reaction
+chemical reaction
+refraction
+diffraction
+infection
+natural selection
+reflection
+dissection
+convection
+friction
+function
+nondisjunction
+subduction
+conduction
+deposition
+superposition
+law of superposition
+motion
+Newton's second law of motion
+Newton's third law of motion
+Newton's first law of motion
+transcription
+absorption
+digestion
+pollution
+solution
+resolution
+evolution
+revolution
+colon
+Moon
+new moon
+monsoon
+Charon
+operon
+apron
+electron
+positron
+neutron
+neuron
+boson
+Higgs boson
+skeleton
+photon
+proton
+axon
+Saturn
+sun
+tornado
+Galileo
+radio
+volcano
+neutrino
+absolute zero
+Pluto
+embryo
+topographic map
+experimental group
+control group
+polyp
+lumbar
+sugar
+molar
+polar
+nonvascular
+modular
+angular
+quasar
+star
+neutron star
+fiber
+Avogadro's number
+mass number
+cancer
+producer
+gallbladder
+boulder
+salamander
+graduated cylinder
+aquifer
+trigger
+weather
+beaker
+summer
+enantiomer
+monomer
+Bunsen burner
+laser
+decomposer
+geyser
+water
+fresh water
+meter
+centimeter
+anemometer
+thermometer
+manometer
+barometer
+hygrometer
+Jupiter
+color filter
+epicenter
+promoter
+matter
+dark matter
+neurotransmitter
+computer
+lever
+class three lever
+class one lever
+class two lever
+liver
+crossing-over
+flower
+power
+solar power
+horsepower
+air
+meteor
+water vapor
+concave mirror
+convex mirror
+incisor
+predator
+insulator
+vector
+inductor
+conductor
+semiconductor
+superconductor
+inhibitor
+capacitor
+resistor
+transistor
+femur
+heart murmur
+pancreas
+gas
+noble gas
+natural gas
+bias
+thermodynamics
+quantum mechanics
+tectonics
+physics
+geophysics
+astrophysics
+kinematics
+genetics
+optics
+ballistics
+balanced forces
+unbalanced forces
+Van der Waals forces
+species
+safety goggles
+tadpoles
+senses
+diabetes
+aurora borealis
+aurora australis
+debris
+epistasis
+homeostasis
+protein synthesis
+chemosynthesis
+photosynthesis
+hypothesis
+gel electrophoresis
+peristalsis
+metamorphosis
+symbiosis
+meiosis
+osmosis
+osteoporosis
+mitosis
+endocytosis
+phagocytosis
+pinocytosis
+exocytosis
+dialysis
+qualitative analysis
+quantitative analysis
+glycolysis
+epiglottis
+axis
+extrusive rocks
+gills
+lens
+concave lens
+abyssal plains
+Triceratops
+Mars
+class
+watch glass
+mass
+air mass
+hardness
+loudness
+gas giants
+cumulonimbus
+focus
+nucleus
+esophagus
+fungus
+radius
+Celsius
+nucleolus
+stimulus
+cumulus
+hummus
+anus
+Uranus
+Venus
+heterozygous
+virus
+cirrus
+citrus
+Golgi apparatus
+Golgi body
+stratus
+altostratus
+cactus
+laws
+gamma rays
+Schrodinger's cat
+heat
+specific heat
+peat
+fat
+float
+habitat
+fact
+attract
+greenhouse effect
+Warburg effect
+doppler effect
+Coriolis effect
+insect
+instinct
+extinct
+rocket
+ultraviolet
+comet
+planet
+outer planet
+magnet
+electromagnet
+genetic drift
+continental drift
+weight
+light
+visible light
+sunlight
+orbit
+Fahrenheit
+British thermal unit
+circuit
+parallel circuit
+series circuit
+basalt
+asteroid belt
+Kuiper belt
+volt
+fault
+reverse fault
+normal fault
+strike-slip fault
+red giant
+red supergiant
+plant
+Coulomb constant
+spring constant
+Planck constant
+universal gravitational constant
+Boltzmann constant
+solubility coefficient
+nutrient
+ligament
+displacement
+angular displacement
+element
+nastic movement
+Okazaki fragment
+experiment
+musical instrument
+current
+joint
+equivalence point
+boiling point
+focal point
+dew point
+DNA fingerprint
+front
+dicot
+monocot
+foot
+root
+soot
+sunspot
+pivot
+heart
+desert
+retort
+cast
+yeast
+chloroplast
+crest
+forest
+rainforest
+microbiologist
+virologist
+meteorologist
+climatologist
+scientist
+protist
+rust
+crust
+watt
+law
+Charles' law
+Gay-Lussac's law
+Boyle's law
+screw
+Archimedes screw
+pyroclastic flow
+marrow
+bone marrow
+convex
+double helix
+equinox
+flux
+Milky Way
+gamma ray
+cosmic ray
+x-ray
+accuracy
+buoyancy
+efficiency
+frequency
+celestial body
+pulley
+kidney
+prey
+mineralogy
+ecology
+archaeology
+geology
+otorhinolaryngology
+aerolithology
+ornithology
+microbiology
+radiology
+epidemiology
+physiology
+pathophysiology
+entomology
+seismology
+helioseismology
+volcanology
+technology
+endocrinology
+immunology
+zoology
+meteorology
+herpetology
+paleontology
+ichthyology
+energy
+kinetic energy
+potential energy
+geothermal energy
+geography
+oceanography
+chromatography
+astronomy
+taxonomy
+anatomy
+taxidermy
+botany
+enthalpy
+canopy
+entropy
+transform boundary
+divergent boundary
+convergent boundary
+capillary
+sedimentary
+estuary
+mimicry
+lepidoptery
+battery
+theory
+laboratory
+observatory
+calorimetry
+stoichiometry
+biochemistry
+electrochemistry
+Mercury
+capacity
+electricity
+static electricity
+velocity
+terminal velocity
+humidity
+molality
+chirality
+ductility
+salinity
+community
+molarity
+density
+gravity
+electronegativity
+radioactivity
+conductivity
+property
+galaxy
+spiral galaxy
