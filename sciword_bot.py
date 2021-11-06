@@ -1,8 +1,7 @@
 import discord
 from random import choice
+words = open('sciword.txt').read().splitlines()
 client = discord.Client()
-with open('sciword.txt') as sciword_txt:
-	words = sciword_txt.read().splitlines()  # word pool
 @client.event
 async def on_message(msg):
 	if msg.content == 'word':
