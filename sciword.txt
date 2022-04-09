@@ -1,21 +1,50 @@
-(DNA) deoxyribonucleic acid
-(RNA) ribonucleic acid
-(mRNA) messenger ribonucleic acid
+micro RNA (miRNA)
+small interfering RNA (siRNA)
+RNA (mRNA, rRNA, tRNA)
+haploid (1N)
+diploid (2N)
+cyclic AMP (cAMP)
+photoelctron spectroscopy (PES)
+kinetic energy (average)
+true-breeding)
+fixation (of alleles)
+gradualism (aka anagenesis)
+atomic mass unit (amu)
+p53
+DNA
+RNA
+small regulatory RNA
+acetyl coA
+NAD
+pOH
 pH
-(ATP) adenosine triphosphate
+NADP
+ATP
+rough ER
+smooth ER
+HIV
+pKa
 amoeba
 Pangaea
 Archaea
 taiga
 hypha
 cilia
+panspermia
 mitochondria
+Bacteria
 bacteria
+criteria
 inertia
+pure-breeding (aka
+divergent evolution (aka
 candela
+flagella
 nebula
 stellar nebula
 planetary nebula
+empirical formula
+molecular formula
 magma
 plasma
 ulna
@@ -31,12 +60,15 @@ aurora
 camera obscura
 data
 medulla oblongata
+stomata
+rock strata
 delta
 placenta
 lava
 saliva
 supernova
 larva
+Eukarya
 swine influenza
 lab
 food web
@@ -49,34 +81,66 @@ aerobic
 anaerobic
 logic
 metamorphic
+amphipathic
 hydrophilic
+dynamic
 endothermic
+ectothermic
 exothermic
 mechanic
 lysogenic
+endergonic
+exergonic
 hypotonic
 isotonic
 hypertonic
+macroscopic
+amphoteric
+sympatric
+allopatric
 adiabatic
 static
+electrostatic
 arctic
+paraphyletic
+monophyletic
+polyphyletic
 kinetic
 antibiotic
+presynaptic
+postsynaptic
 plastic
+characteristic
+shared derived characteristic
+shared ancestral characteristic
+balanced
 speed
 seed
+parallelepiped
 infrared
+thermodynamically favored
+comprised
 foliated
 acid
+nucleic acid
+(RNA) ribonucleic acid
+(mRNA) messenger ribonucleic acid
 deoxyribonucleic acid
+(DNA) deoxyribonucleic acid
 hydrochloric acid
 lactic acid
 conjugate acid
 amino acid
+valid
 solid
+square pyramid
+ecological pyramid
+pentagonal pyramid
+hexagonal pyramid
 energy pyramid
 plasmid
 arachnid
+cuboid
 metalloid
 colloid
 haploid
@@ -84,48 +148,78 @@ lanthanoid
 actinoid
 asteroid
 meteoroid
+ellipsoid
 lipid
+glycolipid
+phospholipid
+hybrid
 sister chromatid
 fluid
 liquid
 mold
+RNA world
+ligand
 barrier island
+template strand
+leading strand
+coding strand
+lagging strand
 sand
+trend
 wind
 solar wind
 bond
+sigma bond
+glycosydic bond
 ionic bond
+peptide bond
+pi bond
+hydrogen bond
 polar bond
+ester bond
 covalent bond
 pond
 organic compound
 inorganic compound
 ground
 sound
+scientific method
 period
+refractory period
 pseudopod
 arthropod
 blizzard
 bird
+fossil record
 cloud
 algae
 probe
 space probe
+cube
 test tube
+respiratory surface
 space
 solstice
+abundance
 incomplete dominance
 codominance
 resonance
+polygenetic inheritance
+non-nuclear inheritance
+pure substance
 distance
 air resistance
 science
 physical science
+resillience
 valence
 prominence
 interference
+sequence
+regulatory sequence
 force
 electromagnetic force
+dipole-dipole force
 electromotive force
 strong force
 weak force
@@ -134,7 +228,11 @@ normal force
 centripetal force
 non-point source
 natural resource
+signal cascade
+phosphorylation cascade
 cyanide
+disaccharide
+monosaccharide
 polysaccharide
 acid anhydride
 tide
@@ -144,17 +242,22 @@ neap tide
 low tide
 nucleotide
 carbon dioxide
+genetic code
 cathode
 light emitting diode
+sinoatrial node
 anode
 amplitude
+magnitude
 absolute magnitude
 perigee
 apogee
+phylogenetic tree
 life
 half-life
 age
 relative age
+linkage
 camouflage
 cartilage
 voltage
@@ -163,72 +266,120 @@ wedge
 change
 climate change
 chemical change
+physical change
+gas exchange
+countercurrent exchange
 sponge
 charge
+formal charge
 elementary charge
 storm surge
 niche
+ecologial niche
 calorie
 lake
 earthquake
 scale
+geologic time scale
 Saffir-Simpson scale
 Richter scale
+selectively permeable
 impermeable
 variable
 control variable
 dependent variable
 independent variable
+table
 periodic table
+miscible
+immiscible
 reversible
+plausible
+ventricle
 particle
 muscle
 cardiac muscle
 smooth muscle
+skeletal muscle
 cycle
+hydrologic cycle
 lysogenic cycle
+citric acid cycle
 rock cycle
+cell cycle
 nitrogen cycle
 Calvin cycle
 carbon cycle
 water cycle
 Krebs cycle
+nutrient cycle
 recycle
 allele
+lethal allele
 projectile
 reptile
 fertile
 ankle
 micelle
+loop of henle
 black hole
 mole
+dipole
+dipole-induced dipole
+diastole
+vacuole
+LeChatelier's principle
 uncertainty principle
+example
 mantle
 microtubule
 molecule
+organic molecule
+polar molecule
+non-polar molecule
+macromolecule
 joule
+ten percent rule
 axle
 style
 time
 biome
+phytochrome
 ribosome
 chromosome
+maternal chromosome
+paternal chromosome
+sex chromosome
 desmosome
+lysosome
+autosome
 volume
+molar volume
 enzyme
 allosteric enzyme
+restriction enzyme
+coenzyme
 incline plane
+membrane
+plasma membrane
+thylakoid membrane
 cell membrane
 gene
+sex linked gene
+constituitive gene
 fluorene
 horizontal axis wind turbine
 vaccine
 pyrimidine
 contour line
 fault line
+cline
+dopamine
 canine
 large intestine
 bone
+cone
+hormone
 zone
 shore zone
 ozone
@@ -236,13 +387,21 @@ Neptune
 telescope
 microscope
 electron microscope
+light microscope
 gyroscope
+nuclear envelope
+allotrope
 isotope
 genotype
 phenotype
 karyotype
 solar flare
+compare
+Punnett square
+Chi-square
 glassware
+sphere
+hemisphere
 geosphere
 lithosphere
 biosphere
@@ -259,20 +418,35 @@ ore
 core
 shore
 pore
+nuclear pore
 spore
 zygospore
 herbivore
+detritovore
+procedure
 measure
 pressure
 barometric pressure
 air pressure
+vapor pressure
+root pressure
+distinguishing feature
 binomial nomenclature
 temperature
+age structure
+analogous structure
+mark and recapture
 texture
 mixture
+heterogeneous mixture
+homogenous mixture
 base
 conjugate base
+Bronsted-Lowery acid/base
+helicase
+rate of increase
 disease
+DNA ligase
 phase
 anaphase
 metaphase
@@ -280,9 +454,18 @@ telophase
 prophase
 interphase
 primase
+protein kinase
+cyclin-dependent kinase
 DNA polymerase
+reverse transcriptase
 impulse
 condense
+specific defense
+non-specific defense
+immune response
+secondary immune response
+primary immune response
+propose
 synapse
 eclipse
 solar eclipse
@@ -290,26 +473,52 @@ lunar eclipse
 inverse
 phosphate
 adenosine triphosphate
+(ATP) adenosine triphosphate
+ribulose bisphosphate
+reaction intermediate
+correlate
 plate
 metaphase plate
+manipulate
+postulate
 climate
+estimate
+approximate
+rate
+forward rate
+reverse rate
+reaction rate
+background extinction rate
 vibrate
 carbohydrate
+substrate
+precipitate
 state
+transition state
+evaluate
 gamete
 trilobite
 anthracite
 hermaphrodite
 graphite
 satellite
+stromatolite
 dendrite
 meteorite
+active site
 parasite
 prokaryote
 eukaryote
+nitrogenous waste
 pipette
 burette
 cuvette
+phagocyte
+lymphocyte
+leukocyte
+xerophyte
+saprophyte
+analyte
 torque
 tissue
 concave
@@ -323,12 +532,21 @@ torsional wave
 secondary wave
 primary wave
 microwave
+repulsive
+recessive
+qualitative
+quantitative
 radioactive
+attractive
 dissolve
 nerve
 observe
 curve
+survivorship curve
 sea breeze
+population size
+hypothesize
+analyze
 leaf
 barrier reef
 half
@@ -339,13 +557,27 @@ drag
 egg
 seafloor spreading
 breeding
+hydrogen bonding
+selfing
 overfishing
+endocrine signaling
+genetic counseling
 upwelling
 global warming
+deductive reasoning
+inductive reasoning
+learning
 shearing
+genetic engineering
 weathering
 spring
+quorum sensing
+radiometric dating
+relative dating
 carbon dating
+random mating
+imprinting
+genomic imprinting
 rusting
 lung
 smog
@@ -360,29 +592,45 @@ pitch
 trough
 graph
 seismograph
+heterotroph
+autotroph
+chemoautotroph
+photoautotroph
 ash
 petri dish
 fish
 starfish
+distinguish
 length
+bond length
 wavelength
 batholith
 monolith
 Earth
 mouth
+logistic growth
+exponential growth
+population growth
+RNAi
 daughter nuclei
 fungi
+villi
 tsunami
 back
 feedback
 negative feedback
 positive feedback
+genetic bottleneck
+molecular clock
 metamorphic rock
 extrusive rock
 igneous rock
 sedimentary rock
+rank
 sink
 quark
+replication fork
+work
 flask
 volumetric flask
 mollusk
@@ -391,8 +639,13 @@ vertical
 pascal
 precocial
 nosocomial
+Standard Cell Potential
 potential
+resting potential
 mammal
+proportional
+inversely proportional
+directly proportional
 coal
 bituminous coal
 mineral
@@ -408,11 +661,18 @@ congenital
 occipital
 horizontal
 crystal
+differential survival
 decibel
 model
+fluid mosaic model
+quantum mechanical model
+shell model
+Dalton's model
+induced fit model
 wheel
 funnel
 fossil fuel
+trophic level
 soil
 fossil
 petrified fossil
@@ -420,24 +680,36 @@ preserved fossil
 carbonized fossil
 mold fossil
 trace fossil
+transitional fossil
 cast fossil
 index fossil
 pistil
 fall
 cell wall
 cell
+galvanic cell
+somatic cell
 prokaryotic cell
 eukaryotic cell
+electrolytic cell
+specialized cell
 red blood cell
 white blood cell
 stem cell
 ganglion cell
+companion cell
+T-cell
 photocell
+subshell
+transpirational pull
 chlorophyll
+mesophyll
 alcohol
 gene pool
 control
+kinetic control
 dream
+cladogram
 kilogram
 xylem
 phloem
@@ -448,8 +720,13 @@ digestive system
 skeletal system
 organ system
 circulatory system
+closed circulatory system
+double circulatory system
+open circulatory system
+ecosystem
 diaphragm
 algorithm
+circadian rhythm
 kingdom
 sonic boom
 atom
@@ -457,72 +734,129 @@ sperm
 angiosperm
 gymnosperm
 cytoplasm
+photoperiodism
+polymorphism
 commensalism
 mutualism
+anabolism
+catabolism
+metabolism
+anaerobic metabolism
 organism
+transgenic organism
 microorganism
+prezygotic isolating mechanism
+postzygotic isolating mechanism
+reaction mechanism
 tropism
 phototropism
 prism
+pentagonal prism
+hexagonal prism
+triangular prism
 antiferromagnetism
 parasitism
 petroleum
 calcium
+hydronium
 equilibrium
+dynamic equilibrium
+genetic equilibrium
+thermal equilibrium
+solution equilibrium
 flagellum
 endoplasmic reticulum
 pendulum
 phylum
 aluminum
 fulcrum
+spectrum
 emission spectrum
+action spectrum
+absorption spectrum
 datum
 momentum
 angular momentum
 vacuum
+continuum
 ocean
+mean
 organ
 vestigial organ
 amphibian
+median
 cnidarian
+Maxwell-Boltzman
 antigen
 chalcogen
+pathogen
 halogen
+nitrogen
 estrogen
 pnictogen
 oxygen
 pollen
 stamen
 experimental design
+food chain
+electron transport chain
 protein
+transmembrane protein
+channel protein
+globular protein
+carrier protein
+fibrous protein
+glycoprotein
+vein
 ptyalin
+myelin
 penicillin
+insulin
+serotonin
+fibrin
+aquaporin
+myosin
 pepsin
 chromatin
 Kelvin
+Darwin
+carbon
 hydrocarbon
 chlorofluorocarbon
 silicon
 tendon
+codon
+start codon/stop codon
+anticodon
 eon
+glucagon
 ion
 perihelion
 aphelion
 anion
+mitochondrion
 prion
 precision
 vision
+cell division
+nuclear division
 tension
+surface tension
 hypotension
 hypertension
 erosion
 corrosion
+ecological succession
+gene repression
 compression
+gene expression
 fission
 nuclear fission
 binary fission
+emission
 transmission
 fusion
+molar enthalpy of fusion
 nuclear fusion
 diffusion
 facilitated diffusion
@@ -530,65 +864,134 @@ conclusion
 cation
 magnification
 replication
+DNA replication
+communication
 fabrication
 predation
 oxidation
 Pillars of Creation
+segregation
 conjugation
+speciation
 radiation
+adaptive radiation
+genetic variation
+continuous variation
+discontinuous variation
+differentiation
+cell differentiation
+cellular differentiation
 standard deviation
 correlation
 constellation
+distillation
 percolation
 isolation
+reproductive isolation
 translation
+pulmonary circulation
 coagulation
+allosteric regulation
+osmoregulation
 accumulation
+population
 insulation
+oxidative phosphorylation
+substrate-level phosphorylation
 sublimation
+inflammation
+formation
+standard enthalpy of formation
+recombination
 gene recombination
+vaccination
 pollination
 protonation
 hibernation
 acceleration
 deceleration
+F1/F2 Generation
 regeneration
+integration
 migration
 respiration
 cellular respiration
 transpiration
 evaporation
 titration
+denaturation
 condensation
 precipitation
+genetic transplantation
 fermentation
 rotation
 retrograde rotation
 adaptation
+mutation
+ionic equation
+net ionic equation
+Hardy-Weinberg equation
+molecular equation
+Arrhenius equation
+estivation
 observation
 preservation
 conservation
+hybridization
 neutralization
+compartmentalization
+fertilization
+urbanization
 polarization
+vaporization
+molar enthalpy of vaporization
 pasteurization
+Capillary action
 capillary action
 reaction
+net energy in a reaction
+endergonic reaction
+exergonic reaction
 chemical reaction
+polymerase chain reaction
+light-dependent reaction
+light-independent reaction
 refraction
 diffraction
 infection
+disruptive selection
+artificial selection
+directional selection
+clonal selection
 natural selection
+r selection
+K-selection
 reflection
 dissection
 convection
+prediction
 friction
+extinction
+mass extinction
 function
+neuromuscular junction
+non-disjunction
 nondisjunction
 subduction
+embryonic induction
+gene induction
 conduction
+saltatory conduction
+signal transduction
+excretion
+inhibition
+feedback inhibition
 deposition
 superposition
 law of superposition
+intraspecific competition
+interspecific competition
+dentition
 motion
 Newton's second law of motion
 Newton's third law of motion
@@ -596,39 +999,61 @@ Newton's first law of motion
 transcription
 absorption
 digestion
+intracellular digestion
+extracellular digestion
+distribution
+dilution
 pollution
 solution
 resolution
 evolution
+parallel evolution
+convergent evolution
+coevolution
 revolution
 colon
+Last Universal Common
 Moon
 new moon
 monsoon
 Charon
+dodecahedron
+tetrahedron
+icosahedron
+octahedron
 operon
+lac operon
 apron
 electron
 positron
 neutron
 neuron
+motor neuron
+sensory neuron
 boson
 Higgs boson
 skeleton
+cytoskeleton
 photon
 proton
 axon
+taxon
+pattern
 Saturn
 sun
 tornado
 Galileo
 radio
+surface area:volume ratio
 volcano
 neutrino
 absolute zero
 Pluto
+evo-devo
 embryo
 topographic map
+courtship
+ion pump
 experimental group
 control group
 polyp
@@ -636,6 +1061,8 @@ lumbar
 sugar
 molar
 polar
+bimolecular
+unimolecular
 nonvascular
 modular
 angular
@@ -650,19 +1077,34 @@ producer
 gallbladder
 boulder
 salamander
+cylinder
 graduated cylinder
+order
+ second order
+zero order
+first order
+buffer
 aquifer
+infer
+transfer
 trigger
+second messenger
 weather
+nodes of Ranvier
 beaker
 summer
 enantiomer
 monomer
+consumer
+secondary consumer
+primary consumer
+polymer
 Bunsen burner
 laser
 decomposer
 geyser
 water
+autoionization of water
 fresh water
 meter
 centimeter
@@ -684,19 +1126,29 @@ class three lever
 class one lever
 class two lever
 liver
+crossing over
 crossing-over
 flower
 power
 solar power
 horsepower
 air
+root hair
 meteor
+turgor
 water vapor
 concave mirror
 convex mirror
 incisor
+repressor
 predator
 insulator
+activator
+biotic factor
+abiotic factor
+limiting factor
+density dependent factor
+cofactor
 vector
 inductor
 conductor
@@ -704,6 +1156,11 @@ semiconductor
 superconductor
 inhibitor
 capacitor
+receptor
+G-protein linked receptor
+sensory receptor
+Ancestor
+common ancestor
 resistor
 transistor
 femur
@@ -711,6 +1168,8 @@ heart murmur
 pancreas
 gas
 noble gas
+greenhouse gas
+ideal gas
 natural gas
 bias
 thermodynamics
@@ -721,96 +1180,204 @@ geophysics
 astrophysics
 kinematics
 genetics
+kinetics
 optics
+cladistics
 ballistics
+nucleic acids
+monoprotic acids
+polyprotic acids
+strong acids
+weak acids
+amino acids
+yields
+metallic bonds
+ionic bonds
+covalent bonds
+compounds
 balanced forces
 unbalanced forces
+London dispersion forces
 Van der Waals forces
+nucleotides
 species
+introduced species
+threatened species
+endangered species
+keystone species
+biological species
+life tables
+multiple alleles
 safety goggles
+organelles
+centrioles
 tadpoles
+molecules
+base-pairing rules
+homologous chromosomes
+digestive enzymes
+HOX genes
+homeotic genes
+inducible genes
+Lewis structures
+homologous structures
 senses
 diabetes
+solutes
+electromagnetic waves
+heart valves
+surroundings
+lungs
 aurora borealis
 aurora australis
+endodermis
 debris
 epistasis
 homeostasis
 protein synthesis
+modern synthesis
 chemosynthesis
 photosynthesis
 hypothesis
+pressure-flow hypothesis
+cladogenesis
+morphogenesis
+cytokinesis
 gel electrophoresis
+pedigree analyisis
 peristalsis
 metamorphosis
 symbiosis
+endosymbiosis
 meiosis
 osmosis
+chemiosmosis
+necrosis
 osteoporosis
 mitosis
+apoptosis
 endocytosis
 phagocytosis
 pinocytosis
 exocytosis
+synapsis
 dialysis
+gravimetric analysis
 qualitative analysis
 quantitative analysis
 glycolysis
+plasmolysis
+photolysis
 epiglottis
 axis
 extrusive rocks
+standard reduction potentials
+VSEPR models
+guard cells
+Schwann cells
+memory cells
 gills
+morphogens
 lens
 concave lens
 abyssal plains
+electron configurations
+half-cell reactions
+oxidation-reduction reactions
+decomposition reactions
+synthesis reactions
+light dependent reactions
+light independent reactions
+intermolecular attractions
+law of definite proportions
+electrons
+valence electrons
+core electrons
+introns
+neutrons
+photons
+protons
+exons
+elementary steps
 Triceratops
 Mars
+structural isomers
+conjugate acid/base pairs
+transcription factors
 class
 watch glass
 mass
+average atomic mass
+molar mass
 air mass
 hardness
 loudness
+evolutionary fitness
+cross
+dihybrid cross
+monohybrid cross
+back cross
+test cross
+sex-limited traits
 gas giants
+coefficients
+Okazaki fragments
+Miller-Urey experiments
 cumulonimbus
 focus
 nucleus
 esophagus
 fungus
 radius
+atomic radius
+ionic radius
 Celsius
 nucleolus
 stimulus
 cumulus
+hypothalamus
 hummus
 anus
 Uranus
 Venus
+genus
+simultaneous
+spontaneous
+homozygous
 heterozygous
+amorphous
 virus
+torus
 cirrus
 citrus
 Golgi apparatus
-Golgi body
 stratus
 altostratus
 cactus
 laws
 gamma rays
+interstial alloys
+substitutional alloys
 Schrodinger's cat
 heat
 specific heat
 peat
 fat
 float
+quadrat
 habitat
 fact
+interact
+digestive tract
+contract
 attract
 greenhouse effect
 Warburg effect
+founder effect
 doppler effect
 Coriolis effect
 insect
+predict
 instinct
 extinct
 rocket
@@ -820,14 +1387,17 @@ planet
 outer planet
 magnet
 electromagnet
+interpret
 genetic drift
 continental drift
 weight
 light
 visible light
 sunlight
+trait
 orbit
 Fahrenheit
+emit
 British thermal unit
 circuit
 parallel circuit
@@ -840,25 +1410,44 @@ fault
 reverse fault
 normal fault
 strike-slip fault
+abundant
 red giant
 red supergiant
 plant
+dominant
+titrant
+limiting reactant
+excess reactant
+constant
 Coulomb constant
 spring constant
 Planck constant
 universal gravitational constant
+equilibrium constant
 Boltzmann constant
+solubility product constant
+Planck's equation/constant
+mass percent
 solubility coefficient
+electrochemical gradient
+concentration gradient
 nutrient
+reaction quotient
 ligament
 displacement
 angular displacement
 element
 nastic movement
 Okazaki fragment
+accessory pigment
 experiment
+primordial environment
+dipole moment
+independent assortment
 musical instrument
+transparent
 current
+solvent
 joint
 equivalence point
 boiling point
@@ -873,11 +1462,16 @@ root
 soot
 sunspot
 pivot
+subscript
 heart
+Beer-Lambert
 desert
+passive transport
+active transport
 retort
 cast
 yeast
+symplast
 chloroplast
 crest
 forest
@@ -890,16 +1484,26 @@ scientist
 protist
 rust
 crust
+catalyst
 watt
+Coulomb's Law
+Hess's Law
+Faraday's Law
 law
 Charles' law
 Gay-Lussac's law
 Boyle's law
+Charles's law
 screw
 Archimedes screw
 pyroclastic flow
+gene flow
+cyclic electron flow
+non-cyclic electron flow
 marrow
 bone marrow
+reflex
+cortex
 convex
 double helix
 equinox
@@ -908,14 +1512,26 @@ Milky Way
 gamma ray
 cosmic ray
 x-ray
+metabolic pathway
+signal transduction pathway
 accuracy
 buoyancy
 efficiency
+trophic efficiency
+potency
 frequency
+crossover frequency
+polyploidy
+Golgi body
 celestial body
 pulley
 kidney
 prey
+clarify
+classify
+quantify
+reproductive strategy
+analogy
 mineralogy
 ecology
 archaeology
@@ -928,6 +1544,7 @@ radiology
 epidemiology
 physiology
 pathophysiology
+homology
 entomology
 seismology
 helioseismology
@@ -940,18 +1557,30 @@ meteorology
 herpetology
 paleontology
 ichthyology
+Gibbs Free Energy
 energy
+heat vs. energy
 kinetic energy
+bond energy
+conservation of energy
 potential energy
 geothermal energy
+activation energy
+ionization energy
 geography
+biogeography
+demography
 oceanography
 chromatography
+family
+apply
 astronomy
 taxonomy
 anatomy
+comparative anatomy
 taxidermy
 botany
+phylogeny
 enthalpy
 canopy
 entropy
@@ -959,36 +1588,62 @@ transform boundary
 divergent boundary
 convergent boundary
 capillary
+stationary
 sedimentary
 estuary
+vary
 mimicry
 lepidoptery
 battery
 theory
+molecular orbital theory
+collision theory
+kinetic molecular theory
 laboratory
 observatory
+life history
 calorimetry
 stoichiometry
+mass spectrometry
 biochemistry
 electrochemistry
 Mercury
 capacity
+carrying capacity
+specific heat capacity
+periodicity
 electricity
 static electricity
+phenotypic plasticity
 velocity
 terminal velocity
 humidity
 molality
+proportionality
 chirality
+mortality
+malleability
+ecosystem stability
+solubility
+volatility
 ductility
 salinity
+cell-mediated immunity
+passive immunity
+humoral immunity
 community
 molarity
 density
+viscosity
+species diversity
+biodiversity
+gastrovascular cavity
 gravity
 electronegativity
 radioactivity
 conductivity
+gross primary productivity
+net primary productivity
 property
 galaxy
 spiral galaxy
