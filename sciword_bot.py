@@ -1,3 +1,4 @@
+import os
 import discord
 from random import choice
 words = open('sciword.txt').read().splitlines()
